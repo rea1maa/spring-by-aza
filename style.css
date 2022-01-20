@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.context-img img{
+    position: absolute;
+    left: -5%;
+    bottom: 10%;
+    z-index: 1;
+}
+.context{
+    margin: 154px 0 0 147px;
+}
+.solutions{
+    margin-top: 80px;
+}
+.reason img{
+    margin-left: 63%;
+}
+.micro{
+    margin-top: 10%;
+}
+.micro h3{
+    margin-top: 20px;
+}
+.micro p{
+    margin-top: 20px;
+}
+.micro button{
+    margin-top: 60px;
+}
+.right{
+    margin-top: 35px;
+}
+.right img{
+    width: 100%;
+}
+.context-img img{
+    width: 100%;
+}
+.video{
+    margin-top: 10%;
+}
+.video h3{
+    margin-top: 20px;
+}
+.video p{
+    margin-top: 20px;
+}
+.video button{
+    margin-top: 60px;
+}
+.right{
+    margin-top: 35px;
+}
+.concept{
+    margin-top: 10%;
+}
+.concept h3{
+    margin-top: 20px;
+}
+.concept p{
+    margin-top: 50px;
+}
+.concept button{
+    margin-top: 60px;
+}
+.right{
+    margin-top: 35px;
+}
+.main-fe{
+    background: #F2EDE7;
+    width: 100%;
+    height: 120vh;
+    margin-top: 50px;
+}
+.features img{
+    margin-top: 90px;
+}
+.levo button{
+    margin-top: 20px;
+}
+.pravo{
+    margin-left: 27%;
+}
+.launch{
+    margin-top: 30px;
+    background: #0B2330;
+
+}
+.launch button{
+    margin-left: 47%;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.foot{
+    background: #0B2330;
+
+}
+@media screen (max-width: 375px;) {
+    .context-img img{
+        width: 100%;
+    }
+}
